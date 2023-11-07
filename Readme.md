@@ -4,4 +4,4 @@ https://github.com/SaulSantos1/Entregavel3/assets/127917213/595308d5-cf2f-4628-a
 
 
 Criação de um projeto simples utilizando Node.js e o framework Express para criação do servidor.
-Após criar e consumir os dados do POST, executei os testes pelo POSTMAN, como mostra o vídeo acima
+Após criar e consumir os dados do POST, executei os testes das funções de operação aritméticas fundamentais pelo POSTMAN, como mostra o vídeo acima
